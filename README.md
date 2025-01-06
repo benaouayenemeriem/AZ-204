@@ -1,6 +1,6 @@
 # AZ-204 Preparation Notes 📚
 
-Welcome to my notes for preparing for the **AZ-204: Developing Solutions for Microsoft Azure** certification exam! 🎯
+🎯 Welcome to my notes for preparing for the **AZ-204: Developing Solutions for Microsoft Azure** certification exam! 
 
 This repository contains my personal study notes and resources I’ve gathered while preparing for the exam. These notes will cover topics like:
 
